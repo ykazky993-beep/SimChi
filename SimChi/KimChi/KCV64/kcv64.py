@@ -2,7 +2,7 @@
 from config import CHARACTERS
 
 text = input("CHAR. Input: ")
-coder_input = input("CODE. Power (1-10): ")
+coder_input = input("CODE. Power: ")
 
 if not coder_input.isdigit() or not 1 <= int(coder_input) <= 10:
     print("WARNING: 1-10 is recomended, but you can ignore this.")
