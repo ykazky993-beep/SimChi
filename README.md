@@ -112,7 +112,7 @@ install
     python3 -m KCV96.kcv96
     python3 -m KCV192.kcv192
 
-Avoid using `python3 kcv192.py` utils can be not detected.
+Avoid using `python3 kcvxxx.py` utils can be not detected.
 
 ### KCV32 — Multiplication
 
