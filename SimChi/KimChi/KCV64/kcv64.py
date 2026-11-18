@@ -5,8 +5,7 @@ text = input("CHAR. Input: ")
 coder_input = input("CODE. Power (1-10): ")
 
 if not coder_input.isdigit() or not 1 <= int(coder_input) <= 10:
-    print("ERROR: POWER MUST BE 1-10")
-    exit()
+    print("WARNING: 1-10 is recomended, but you can ignore this.")
 
 coder = int(coder_input)
 result = []
