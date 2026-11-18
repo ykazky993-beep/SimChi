@@ -103,7 +103,7 @@ Let:
 
 ### Usage
 
-install
+installation and usage:
 
     git clone https://github.com/ykazky993-beep/SimChi.git
     cd SimChi/SimChi/KimChi
