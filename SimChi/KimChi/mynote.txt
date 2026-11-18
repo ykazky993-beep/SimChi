@@ -1,0 +1,24 @@
+kcv32 is done!
+using position index * coder (multiple)
+output base32
+
+kcv64 is done!
+using position index ** coder (power)
+output base32
+
+kcv96 in progress!
+using position index * cider (multiple)
+outpur base32 -> base64 (dual)
+
+kcv192 in progress!
+using position index * coder = R, then R ** coder
+limit coder 10
+output base64
+
+kcv256 in planning!
+using position! (factorial) then %2 (<1000)
+then * coder (multiple)
+output base64
+
+kcv512 in planning!
+
