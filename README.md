@@ -101,6 +101,19 @@ Let:
 - `c` = coder.
 - `v` = transformed numerical value.
 
+### Usage
+
+install
+
+    git clone https://github.com/ykazky993-beep/SimChi.git
+    cd SimChi/SimChi/KimChi
+    python3 -m KCV32.kcv32
+    python3 -m KCV64.kcv64
+    python3 -m KCV96.kcv96
+    python3 -m KCV192.kcv192
+
+Avoid using `python3 kcv192.py` utils can be not detected.
+
 ### KCV32 — Multiplication
 
 KCV32 uses basic multiplication.
